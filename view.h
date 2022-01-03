@@ -1,5 +1,4 @@
 #include <curses.h>
-#include "snake.h"
 
 void draw_snake(WINDOW *window, Snake *snake);
 

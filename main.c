@@ -1,6 +1,6 @@
 #include <stdlib.h>
-#include <stdio.h>
 #include <time.h>
+#include "snake.h"
 #include "view.h"
 
 #define DELAY 50
